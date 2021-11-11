@@ -27,3 +27,5 @@ This guide series will teach you basics of C++ programming. The goal of this tut
 1. Hello World!
 2. Variables
 3. Functions and Operators
+4. Conditional statements and loops
+5. 
