@@ -90,6 +90,8 @@ There are two kinds of types in C++ - **Builtin types** (also known as fundament
 ## Builtin Types
 The full list of builtin types can be seen [here](https://en.cppreference.com/w/cpp/language/types). Here is a table of most common ones, their sizes and usage and value range. Keep in mind that the size might vary depending on a platform (Windows or linux) you are using.
 
+// TODO: Type entropy
+
 | Type          	| Size (Bytes) 	| Usage                         	| Value Range           	| Possible Unique Different Values 	|
 |---------------	|--------------	|-------------------------------	|-----------------------	|----------------------------------	|
 | float         	| 4            	| real numbers                  	| (too big to put here) 	|                                  	|
